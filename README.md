@@ -1,2 +1,2 @@
 # dnsenum
-Information Gathering ------> DNS Analysis
+Information Gathering Part 1
