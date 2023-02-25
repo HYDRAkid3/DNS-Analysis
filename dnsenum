@@ -1,0 +1,3 @@
+BASIC SCAN 
+Command - dnsenum <target site>
+Description - It will show you the DNS records,name servers,email records and ip addresses that the script was able to find.
