@@ -6,6 +6,6 @@ DESCRIPTION - It will show you the DNS records,name servers,email records and ip
 COMMAND - dnsenum --enum <target site>
 DESCRIPTION - It is used to get more information of the target site such as it will try to gather whois information and use Google to dig up subdomains. 
 
-To get more information about what dnsenum tool can do type the following 2 commands :
+To get more information about the dnsenum toolc type any of the following 2 commands :
 *dnsenum -h 
 *dnsenum --help
