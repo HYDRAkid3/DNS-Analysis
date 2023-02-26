@@ -9,3 +9,4 @@ DESCRIPTION - It is used to get more information of the target site such as it w
 To get more information about the dnsenum tool type any of the following 2 commands :
 *dnsenum -h 
 *dnsenum --help
+[Both -h and --help will give the same results :) ]
